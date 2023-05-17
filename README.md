@@ -20,3 +20,9 @@ Here's a glimpse of the case studies we encountered along the way:
 -   Case Study #8: Fresh Segments 
 
 Each case study presents a unique set of challenges and data analysis tasks, allowing us to practice and expand our SQL skills in a practical and engaging manner. By completing all eight case studies, we comprehensively understand SQL and its applications in various industries.
+
+
+
+
+
+[![Linkedin](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/rajamit34/)
